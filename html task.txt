@@ -1,0 +1,212 @@
+CONTACT US FORM
+<html>
+    <head>
+        <title>
+            Contact us
+        </title>
+    </head>
+    <body>
+        <form>
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname" ><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname" ><br>
+            <input type="submit" value="submit">
+        </form>
+    </body>
+</html>
+QUESTION 4
+<html>
+    <head>
+        <title>
+            Contact us
+        </title>
+    </head>
+    <body>        
+           <ul>
+               <li>Programming language</li>                     
+               <ul>
+               <li>Javascript</li>
+                <ol type="a">
+                    <li>Angular</li>
+                    <li>React</li>
+                    <li>Vue.js</li>
+                </ol>
+                <li>Python</li>
+                <ol type = "a">
+                <li>Django Framework</li>
+                <li>Flask Framework</li>
+                </ol>
+               <li>Java</li>
+                <ol type = "a">
+                    <li>Spring</li>
+                    <li>Maven</li>
+                    <li> Hibernate</li>
+                </ol>
+               </ul>    
+               <li>Database</li>
+               <ul>
+                   <li>MySQL</li>
+                   <li>MongoDB</li>
+                   <li>Cansandra</li>
+               </ul>
+            </ul>                 
+    </body>
+</html>
+QUESTION 5 
+ <a href = "https://google.com/" target="_blank">Google</a>  
+QUESTION 6
+    <body>        
+           <div>
+               Employee type <br>
+               <input type ="radio">
+               <label>Salaried</label><br>
+               <input type ="radio">
+               <label>Own Business</label>
+           </div>
+    </body>
+QUESTION 7
+<html>
+    <head>
+        <title>
+            Contact us
+        </title>
+        <link rel = "stylesheet" href = "D:\ZEN\css\stylesheet.css">
+        <style>
+        main {
+    border-style: solid;
+    position: absolute;
+}
+#top{
+    text-align: center;
+    background-color: red;
+    font-size: xx-large;
+}
+</style>
+    </head>
+    <body> 
+        <div id = "main">
+           <div id = "top">
+               Yes! I want to subscribe to Mag-O-Zine 
+           </div>
+           <div>
+               <label>First Name:</label>
+               <input type = "text" value = "Vijay">
+               <label>Last Name:</label>
+               <input type = "text" value = "Natesh"><br>
+               <label>Address:</label>
+               <textarea rows = "4" col = "10" value = "Amman Nagar"></textarea><br>
+               <label>city:</label>
+               <input type = "text" value = "Salem">
+               <label>state:</label>
+               <input type = "text" Value ="Tamilnadu">
+               <label>Zip</label>
+               <input type = "text" value = "623145">                         
+           </div>
+           <div>
+               Subscribe for:
+               <input type = radio>
+               <label>1 year($19.95)</label>
+               <input type = radio>
+               <label>2 year($35.00)</label>
+           </div>
+           <div>
+               Send me more information about:<br>
+               <input type = radio>
+               <label>Computer_Zine</label><br>
+               <input type = radio>
+               <label>Fishing_Zine</label><br>
+               <input type = radio>
+               <label>Cat_O_Zine</label>
+           </div>
+           </div>
+    </body>
+</html>
+QUESTION 8
+<html>
+    <head>
+        <title>
+            Contact us
+        </title>
+        <link rel = "stylesheet" href = "D:\ZEN\css\stylesheet.css">
+        <style>
+        table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+</style>
+          </head>
+    <body> 
+       <table>
+       <caption>Health Chart</caption>
+           
+           <tr>
+               <th rowspan="2">State of health</th>
+               <th colspan="2">Fasting value</th>
+               <th colspan="1">After Eating</th>
+           </tr>
+           <tr>
+               <td>Minimum</td>
+               <td>Maximum</td>
+               <td>2 hours after eating</td>
+           </tr>
+           <tr>
+               <td>Healthy</td>
+               <td>70</td>
+               <td>100</td>
+               <td><140</td>
+           </tr>
+           <tr>
+                <td>Pre-Diabetes</td>
+                <td>101</td>
+                <td>126</td>
+                <td>140 to 200</td>
+            </tr>
+            <tr>
+                    <td>Diabetes</td>
+                    <td>>126</td>
+                    <td>NA</td>
+                    <td>>200</td>
+                </tr>
+           
+       </table>
+    </body>
+</html>
+QUESTION 9
+<body> 
+       <label>FirstName:</label>
+       <input type = "text" value = "Vijay">
+</body>
+QUESTION 10
+<body> 
+       <ul>
+           <li><mark>"HTML & CSS is awesome"</mark></li>
+       </ul>
+</body>
+QUESTION 11
+  <body> 
+        <input type="button"><br>
+        <input type="checkbox"><br>
+        <input type="color"><br>
+        <input type="date"><br>
+        <input type="datetime-local"><br>
+        <input type="email"><br>
+        <input type="file"><br>
+        <input type="hidden"><br>
+        <input type="image"><br>
+        <input type="month"><br>
+        <input type="number"><br>
+        <input type="password"><br>
+        <input type="radio"><br>
+        <input type="range"><br>
+        <input type="reset"><br>
+        <input type="search"><br>
+        <input type="submit"><br>
+        <input type="tel"><br>
+        <input type="text"><br>
+        <input type="time"><br>
+        <input type="url"><br>
+        <input type="week">
+        </body>
